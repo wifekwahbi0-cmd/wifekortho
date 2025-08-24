@@ -1,0 +1,28 @@
+{
+  "name": "وفيق أورثو - العلاج النطقي للأطفال",
+  "version": "1.0.0",
+  "description": "تطبيق تعليمي متخصص في العلاج النطقي وتنمية مهارات الأطفال الذين يعانون من صعوبات التعلم والتوحد",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "speech-therapy",
+    "autism",
+    "learning-disabilities",
+    "children",
+    "arabic",
+    "educational-games",
+    "وفيق-أورثو",
+    "العلاج-النطقي",
+    "التوحد",
+    "صعوبات-التعلم"
+  ],
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
